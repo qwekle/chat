@@ -1,3 +1,12 @@
+# yarn start
+Application launch 
+
+# yarn server
+Server launch
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
